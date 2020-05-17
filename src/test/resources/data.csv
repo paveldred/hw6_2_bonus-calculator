@@ -1,0 +1,3 @@
+test, amount, registered, expected
+"unregistered user, bonus under limit",100060,false,10
+"unregistered user, bonus over limit",100000060,false,500
